@@ -1,6 +1,10 @@
+
+
 body {
 	font-family: "Times New Roman", serif;
 	background-color: aliceblue; }
+
+
 h1 {	
 	border-top: 1px #00FFFF;
  	border-right: 1px #00FFFF;
@@ -8,18 +12,26 @@ h1 {
   	border-left: 1px #00FFFF;
 	text-align: center;
 	font-family: sans-serif; }
+
+
 h2 {
 	text-align: right;}
+
 p {
 	line-height: 1.2; font-size: 1em;
 	margin-left: 80px;
 	font-size: 14pt;
 	color: green;}
 
-table,td {
-    	border-collapse: separate;
-	border: 5px solid blue;
-	padding: 5px;}
+
+
+table {
+
+	border-spacing: 5px;
+	border-collapse: separate; } 
+td {
+	padding: 0px; }
+
 
 a:link {
 	color: blue; }
