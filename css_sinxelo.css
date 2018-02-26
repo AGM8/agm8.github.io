@@ -17,7 +17,6 @@ p {
 	color: green;}
 
 table,td {
-	border-spacing: 5px;
     	border-collapse: separate;
 	border: 5px solid blue;
 	padding: 5px;}
