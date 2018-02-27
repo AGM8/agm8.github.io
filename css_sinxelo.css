@@ -25,14 +25,6 @@ p {
 
 
 
-table {
-
-	border-spacing: 0px;
-	border-collapse: separate; } 
-td {
-	padding: 0px; }
-
-
 a:link {
 	color: blue; }
 a:visited {
