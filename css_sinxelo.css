@@ -27,6 +27,13 @@ p {
 	font-size: 14pt;
 	color: green;}
 
+table {
+ 
+ 	border-spacing: 5px;
+ 	border-collapse: separate; } 
+ td {
+ 	padding: 0px; }
+
 
 
 a:link {
